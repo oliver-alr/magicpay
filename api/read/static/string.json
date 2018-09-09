@@ -1,0 +1,26 @@
+{
+
+"id": "ch_1D8KoQBTikSQKpVl5surxWOJ",
+  "object": "charge",
+  "amount": 2000,
+  "amount_refunded": 0,
+  "application": null,
+  "application_fee": null,
+  "balance_transaction": "txn_1D8Kn9BTikSQKpVld9zsI6iR",
+  "captured": true,
+  "created": 1536468378,
+  "currency": "usd",
+  "customer": null,
+  "description": null,
+  "destination": null,
+  "dispute": null,
+  "failure_code": null,
+  "failure_message": null,
+  "fraud_details": {
+  },
+  "invoice": null,
+  "livemode": false,
+  "metadata": {
+    "order_id": "6735"
+    }
+  }
