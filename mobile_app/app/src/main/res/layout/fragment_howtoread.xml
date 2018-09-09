@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment_howtoread">
+
+    <TextView
+        android:id="@+id/txtInstruccion1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="1.- Aleje su tarjeta AS-CARD"/>
+    <TextView
+        android:id="@+id/txtInstruccion2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="2.- Pulse el boton 'VER CONTENIDO...'"/>
+
+    <TextView
+        android:id="@+id/txtInstruccion3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="3.- Acerque su tarjeta AS-CARD "/>
+    <TextView
+        android:id="@+id/txtInstruccion4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="4.- Puede retirar su tarjeta. En la pantalla debera aparecer el contenido de su AS-CARD"/>
+
+</LinearLayout>

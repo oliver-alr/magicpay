@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bancomer rifa</string>
+    <string name="message_write_error">Error Escribiendo tarjeta !</string>
+    <string name="message_write_success">Escritura de tarjeta exitosa !</string>
+    <string name="message_write_progress">Escribiendo tarjeta..</string>
+    <string name="message_tag_detected">tarjeta Detecteda !</string>
+    <string name="message_read_tag">Recibir pago</string>
+    <string name="message_write_tag">Enviar pago</string>
+    <string name="message_tap_tag">Acerca tu tarjeta al dispositivo !</string>
+    <string name="hint_message">Message</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

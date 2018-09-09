@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment_howtowrite">
+
+    <TextView
+        android:id="@+id/txtInstruccion1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="1.- Aleje su tarjeta AS-CARD"/>
+    <TextView
+        android:id="@+id/txtInstruccion15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="2.- Llene los espacios de la pantalla principal con sus datos de contacto"/>
+    <TextView
+        android:id="@+id/txtInstruccion2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="3.- Pulse el boton 'PROGRAMAR AS-CARD'"/>
+
+    <TextView
+        android:id="@+id/txtInstruccion3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="4.- Acerque su tarjeta AS-CARD "/>
+    <TextView
+        android:id="@+id/txtInstruccion4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="5.- Puede retirar su tarjeta. Verifique sus datos con el boton 'VER CONTENIDO...'"/>
+
+</LinearLayout>
